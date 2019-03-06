@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  "accounts" [{
+      { "id": 1, "name": "Angela", "age": 40 },
+    { "id": 2, "name": "Consuelo", "age": 12 }
+      }]
 }
